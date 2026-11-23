@@ -18,10 +18,14 @@ img {
 }
 
 body {
-  background: rgb(18, 106, 79);
+  background-image: url('../img/background.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 section {
+  color:#FFFF00;
   padding-left: 10%;
   padding-right: 10%;
   text-align: center;
